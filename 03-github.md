@@ -26,5 +26,5 @@ github에 push 하기
 
 git remote add origin url -> url에 있는 원격저장소에 내 로컬 저장소를 연결
 
-git push -u origin master -> 내 코드를 push하는 명령어
+git push -u origin master -> 내 코드를 push하는 명령어 입니다.
 
